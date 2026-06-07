@@ -1,3 +1,3 @@
 # DSA-Journey
 
-My structured DSA and problem-solving journey 💻.
+My structured DSA and problem-solving journey 💻🚀.
