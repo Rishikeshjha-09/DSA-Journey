@@ -1,10 +1,12 @@
-# DSA Journey
+# 🚀 DSA Journey
 
-This repository is where I document my journey of learning Data Structures and Algorithms in Java.
+This repository documents my journey of learning **Data Structures and Algorithms (DSA)** in **Java**.
 
-I'm solving problems, writing clean implementations, and keeping notes along the way. The goal is to improve my problem-solving skills and build a strong understanding of core computer science concepts.
+Here, I solve problems, write clean and optimized implementations, and maintain notes as I progress. The goal is to strengthen my problem-solving skills, develop algorithmic thinking, and build a solid foundation in computer science.
 
-## Topics
+---
+
+## 📚 Topics
 
 - Maths
 - Arrays
@@ -18,7 +20,7 @@ I'm solving problems, writing clean implementations, and keeping notes along the
 - Stack
 - Queue
 - Trees
-- BST
+- Binary Search Tree (BST)
 - Heap
 - Trie
 - Graphs
@@ -26,15 +28,38 @@ I'm solving problems, writing clean implementations, and keeping notes along the
 - Backtracking
 - Dynamic Programming
 
-## Structure
+---
 
-```
-src/
-├── basics/
-├── maths/
-├── arrays/
-├── strings/
-├── ...
-```
 
-I'll keep updating this repository as I learn new concepts and solve more problems.
+## 🎯 Goals
+
+- Build strong problem-solving skills.
+- Master Data Structures and Algorithms.
+- Develop algorithmic thinking.
+- Write clean and optimized Java solutions.
+- Prepare for coding interviews and software engineering roles.
+
+---
+
+## ☕ Language
+
+- Java
+
+---
+
+## 📌 Problem Sources
+
+- 🏗️ Foundation Building Problems
+- 📚 Curated Problem Sets
+    - Striver A2Z DSA Sheet
+    - LeetCode
+    - GeeksforGeeks (GFG)
+    - NeetCode
+
+---
+
+> ⭐ *Consistency beats intensity. One problem solved with understanding is better than ten solved by memorization.*
+
+I'll continue updating this repository as I learn new concepts and solve more problems.
+
+⭐ If you find this repository helpful, consider giving it a star.
