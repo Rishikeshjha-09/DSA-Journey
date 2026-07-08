@@ -1,4 +1,4 @@
-# 🚀 DSA Journey
+#                         DSA Journey
 
 This repository documents my journey of learning **Data Structures and Algorithms (DSA)** in **Java**.
 
