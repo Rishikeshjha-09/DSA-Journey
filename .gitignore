@@ -1,50 +1,49 @@
-### IntelliJ IDEA ###
+# ==========================
+# IntelliJ IDEA
+# ==========================
+.idea/
+*.iml
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
 .kotlin
 
-### Eclipse ###
+# IntelliJ workspace (optional but commonly ignored)
+.idea/workspace.xml
+.idea/shelf/
+.idea/httpRequests/
+
+# ==========================
+# Eclipse
+# ==========================
 .apt_generated
 .classpath
 .factorypath
 .project
-.settings
+.settings/
 .springBeans
 .sts4-cache
 bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
 
-### NetBeans ###
+# ==========================
+# NetBeans
+# ==========================
 /nbproject/private/
 /nbbuild/
 /dist/
 /nbdist/
 /.nb-gradle/
 
-### VS Code ###
+# ==========================
+# VS Code
+# ==========================
 .vscode/
 
-### Mac OS ###
-.DS_Store
-# IntelliJ workspace
-.idea/workspace.xml
-.idea/shelf/
-.idea/httpRequests/
-
-# Java compiled files
+# ==========================
+# Java
+# ==========================
 *.class
-
-# Logs
 *.log
 
-# IntelliJ
-.idea/
-*.iml
-
-# Build
-out/
-
+# ==========================
 # macOS
+# ==========================
 .DS_Store
