@@ -1,3 +1,22 @@
+/*
+ * Problem: Merge Sort
+ *
+ * Given an array of integers, sort the array in ascending order using
+ * the Merge Sort algorithm.
+ *
+ * Key Idea:
+ * Merge Sort follows the Divide and Conquer technique:
+ *      Divide → Recursively Sort → Merge
+ *
+ * Time Complexity:                      * Space Complexity:
+ * Best Case    : O(n log n)             * Auxiliary Space : O(n)  -> Temporary array used during merging
+ * Average Case : O(n log n)             * Recursion Stack : O(log n)
+ * Worst Case   : O(n log n)
+ *
+ * Stability:
+ * Stable, because equal elements are selected from the left subarray first
+ * using the <= comparison.r
+ */
 package Recursion;
 import java.util.Arrays;
 import java.util.Scanner;
@@ -30,6 +49,7 @@ public class MergeSort {
             arr[left + z] = temp[z];
         }
     }
+
     public static void divide(int[] arr, int low, int high){
         recursionCalls++;
         if(low < high){
@@ -39,6 +59,7 @@ public class MergeSort {
             conquer(arr, low, mid, high);
         }
     }
+
     public static void main(String[] args) {
        Scanner s = new Scanner(System.in);
        int n = s.nextInt();
