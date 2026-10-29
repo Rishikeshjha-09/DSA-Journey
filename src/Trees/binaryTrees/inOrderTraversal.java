@@ -18,7 +18,7 @@ Given the following binary tree:
 
 Traverse the tree in inorder and return a list containing the value of every node in the order visited.
 
-Inorder Traversal:
+Inorder Traversal: Inorder = Left → Root → Right
 1. Visit the left subtree.
 2. Visit the current root.
 3. Visit the right subtree.

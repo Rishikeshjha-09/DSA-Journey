@@ -1,4 +1,3 @@
-
 /*
 
 ## Preorder Traversal of a Binary Tree
@@ -20,7 +19,7 @@ Given the following binary tree:
 Traverse the tree in preorder and return a list containing
 the value of every node in the order visited.
 
-Preorder Traversal:
+Preorder Traversal: Preorder = Root → Left → Right
 1. Visit the current root.
 2. Visit the left subtree.
 3. Visit the right subtree.
